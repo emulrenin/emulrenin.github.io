@@ -6,26 +6,29 @@ My main research interests are in combinatorics, primarily Ramsey theory, extrem
 See my CV [here](https:///ellebuser.github.io/documents/ElleBuser_CV_Jan2024.pdf).
 
 ### Publications
-  - E. Mulrenin, *Some remarks on Folkman graphs for triangles*, submitted. [arXiv](https://arxiv.org/abs/2506.14942)
+  - E. Mulrenin, *Some remarks on Folkman graphs for triangles*, submitted. [[arXiv]](https://arxiv.org/abs/2506.14942)
   - D. Conlon, E. Mulrenin, and C. Pohoata, *Even cycles in graphs avoiding longer even cycles*, preprint.
-[arXiv](https://arxiv.org/abs/2501.13036v1)
-  - E Mulrenin and D. Dob\'ak, *Sharp exponents for bipartite Erd\"os-Rado numbers*, to appear in J. Graph Theory. [arXiv](https://arxiv.org/abs/2410.08982)
-  - E. Mulrenin, C. Pohoata, and D. Zakharov, *Color avoidance for monotone paths*, Discrete Anal. (2025), Paper No. 23, 14 pp. [arXiv](https://arxiv.org/abs/2411.19823)
-  - E. Mulrenin and B. Nagle, *Some imbalanced hypergraph Zarankiewicz numbers*, Bull. Inst. Comb. Appl. **102** (2024), 116--128. [Journal](https://bica.the-ica.org/Volumes/102//Reprints/BICA2023-56-Reprint.pdf)
+[[arXiv]](https://arxiv.org/abs/2501.13036v1)
+  - E Mulrenin and D. Dob\'ak, *Sharp exponents for bipartite Erd\"os-Rado numbers*, to appear in J. Graph Theory. [[arXiv]](https://arxiv.org/abs/2410.08982)
+  - E. Mulrenin, C. Pohoata, and D. Zakharov, *Color avoidance for monotone paths*, Discrete Anal. (2025), Paper No. 23, 14 pp. [[arXiv]](https://arxiv.org/abs/2411.19823)
+  - E. Mulrenin and B. Nagle, *Some imbalanced hypergraph Zarankiewicz numbers*, Bull. Inst. Comb. Appl. **102** (2024), 116--128. [[journal]](https://bica.the-ica.org/Volumes/102//Reprints/BICA2023-56-Reprint.pdf)
     
 ### Talks
   - Atlanta lecture series XXX (November 2025); Atlanta, GA, USA
   - University of Georgia analysis seminar (November 2025); Athens, GA, USA
   - Universitat Polit`ecnica de Catalunya combinatorics seminar (November 2024); Barcelona, Spain
     
-### Conferences & More
-  
-  - 2024 Gene Golub SIAM Summer School on Iterative and Randomized Methods for Large-Scale Inverse Problems, Quito, Ecuador
-  - SIAM Conference on Imaging Sciences (IS24), 2024, Atlanta, GA.
-  - 18th Copper Mountain Conference On Iterative Methods, 2024, Copper Mountain, CO.
-  - AMS Southeastern Sectional Meeting, 2023, Georgia Institute of Technology, Atlanta, GA.
-  - SIAM Conference on Mathematics of Data Science (MDS22), 2022, online.
-  - Georgia Scientific Computing Symposium, 2022, 2023, 2024.
+### Some Conferences & Activities
+  - BIRS workshop on finite geometry and Ramsey theory, Banff, Canada (September
+7–12, 2025)
+  - PCMI graduate summer school in Park City, Utah, USA (July 7–25, 2025)
+  - SLMath workshop on algebraic and analytic methods in combinatorics in Berkeley,
+California, USA (March 16–21, 2025)
+  - Summer school on additive combinatorics at the R´enyi Institute in Budapest, Hungary (June
+9–14, 2024)
+  - Summer school on graph coloring (May 23–26, 2023), EXCILL IV conference (May
+27–28, 2023), and the summer school on algebraic methods in combinatorics (May 29–June 2, 2023)
+at UIUC in Champaign, Illinois, USA
   
 
   
