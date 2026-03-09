@@ -3,7 +3,7 @@ I am a 3rd year PhD student at Emory University advised by Professor [Cosmin Poh
 
 My main research interests are in combinatorics, primarily Ramsey theory, extremal graph theory, pseudorandomness and finite geometry, and their interactions.
 
-See my CV [here](https:///ellebuser.github.io/documents/ElleBuser_CV_Jan2024.pdf).
+See my CV [here](https:///emulrenin.github.io/EM_CV.pdf).
 
 ### Publications
   - E. Mulrenin, *Some remarks on Folkman graphs for triangles*, submitted. [[arXiv]](https://arxiv.org/abs/2506.14942)
