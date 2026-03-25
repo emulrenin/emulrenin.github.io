@@ -1,5 +1,5 @@
 ## Hello! 
-I am a third year PhD student at Emory University advised by Professor [Cosmin Pohoata](https://pohoatza.wordpress.com/).
+I am a third year PhD student in mathematics at Emory University advised by Professor [Cosmin Pohoata](https://pohoatza.wordpress.com/).
 
 My main research interests are in combinatorics, primarily Ramsey theory, extremal graph theory, pseudorandomness and finite geometry, and their interactions.
 
