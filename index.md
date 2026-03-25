@@ -28,8 +28,7 @@ See my CV [here](https:///emulrenin.github.io/EM_CV.pdf).
   - SLMath workshop on algebraic and analytic methods, Berkeley,
 California, USA (March 2025)
   - Summer school on additive combinatorics at the Renyi Institute in Budapest, Hungary (June 2024)
-  - Summer school on graph coloring, EXCILL IV conference, and summer school on algebraic methods, Champaign, Illinois, USA (May 2023)
-at UIUC in Champaign, Illinois, USA
+  - Summer school on graph coloring, EXCILL IV conference, and summer school on algebraic methods at UIUC in Champaign, Illinois, USA (May-June 2023)
   
 
   
