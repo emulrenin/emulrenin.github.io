@@ -6,9 +6,9 @@ My main research interests are in combinatorics, primarily Ramsey theory, extrem
 See my CV [here](https:///emulrenin.github.io/EM_CV.pdf).
 
 ### Publications and preprints
+  - D. Conlon, E. Mulrenin, and C. Pohoata, *Two counterexamples to a conjecture about even cycles*, preprint.
+[[arXiv]](https://arxiv.org/abs/2603.24515)
   - E. Mulrenin, *Some remarks on Folkman graphs for triangles*, submitted. [[arXiv]](https://arxiv.org/abs/2506.14942)
-  - D. Conlon, E. Mulrenin, and C. Pohoata, *Even cycles in graphs avoiding longer even cycles*, preprint.
-[[arXiv]](https://arxiv.org/abs/2501.13036v1)
   - D. Dobak and E. Mulrenin, *Sharp exponents for bipartite Erdos-Rado numbers*, to appear in J. Graph Theory. [[arXiv]](https://arxiv.org/abs/2410.08982)
   - E. Mulrenin, C. Pohoata, and D. Zakharov, *Color avoidance for monotone paths*, Discrete Anal. (2025), Paper No. 23, 14 pp. [[arXiv]](https://arxiv.org/abs/2411.19823)
   - E. Mulrenin and B. Nagle, *Some imbalanced hypergraph Zarankiewicz numbers*, Bull. Inst. Comb. Appl. **102** (2024), 116--128. [[journal]](https://bica.the-ica.org/Volumes/102//Reprints/BICA2023-56-Reprint.pdf)
