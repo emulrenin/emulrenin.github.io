@@ -5,7 +5,7 @@ My main research interests are in combinatorics, primarily Ramsey theory, extrem
 
 See my CV [here](https:///emulrenin.github.io/EM_CV.pdf).
 
-Before coming to Emory, I completed B.A.'s in mathematics and philosophy at the University of South Florida under the mentorship of Professor [Brendan Nagle](https://www.usf.edu/arts-sciences/departments/mathematics-statistics/people/faculty/brendan-nagle.aspx).
+Before coming to Emory, I completed B.A.'s in mathematics and philosophy at the University of South Florida.
 
 ### Publications and preprints
   - D. Conlon, E. Mulrenin, and C. Pohoata, *Two counterexamples to a conjecture about even cycles*, preprint.
