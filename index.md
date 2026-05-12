@@ -1,7 +1,7 @@
 ## Hello! 
 I am a third year PhD student in mathematics at Emory University supervised by Professor [Cosmin Pohoata](https://pohoatza.wordpress.com/).
 
-My main research interests are in combinatorics, primarily Ramsey theory, extremal graph theory, and pseudorandomness and finite geometry.
+My main research interests are in combinatorics, primarily Ramsey theory, extremal graph theory, and finite geometry.
 
 See my CV [here](https:///emulrenin.github.io/EM_CV.pdf).
 
