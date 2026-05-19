@@ -8,6 +8,7 @@ See my CV [here](https:///emulrenin.github.io/EM_CV.pdf).
 Before coming to Emory, I completed B.A.'s in mathematics and philosophy at the University of South Florida in 2023.
 
 ### Publications and preprints
+  - D. Dobak and E. Mulrenin, *Recursive upper bounds for the vertex online Ramsey game with applications to hypergraph Ramsey numbers*, preprint. [[arXiv]](https://arxiv.org/abs/2605.16607)
   - R. Miyazaki, E. Mulrenin, C. Pohoata, and M. Zheng, *Improved Ramsey bounds for generalized Schur equations*, preprint. [[arXiv]](https://arxiv.org/abs/2605.15147)
   - D. Conlon, E. Mulrenin, and C. Pohoata, *Two counterexamples to a conjecture about even cycles*, preprint.
 [[arXiv]](https://arxiv.org/abs/2603.24515)
