@@ -17,6 +17,9 @@ Before coming to Emory, I completed B.A.'s in mathematics and philosophy at the 
   - E. Mulrenin, C. Pohoata, and D. Zakharov, *Color avoidance for monotone paths*, Discrete Anal. (2025), Paper No. 23, 14 pp. [[arXiv]](https://arxiv.org/abs/2411.19823)
   - E. Mulrenin and B. Nagle, *Some imbalanced hypergraph Zarankiewicz numbers*, Bull. Inst. Comb. Appl. **102** (2024), 116--128. [[journal]](https://bica.the-ica.org/Volumes/102//Reprints/BICA2023-56-Reprint.pdf)
 
+### Teaching
+In Fall 2026, I'm teaching Math 112 (Calculus II). For previous courses I've taught or TA'd/graded for, see my CV.
+
 ### Planned upcoming travel
   - ISM summer school on probability and combinatorics, Montreal, Canada (June 2026)
   - SIAM DM, San Diego, California, USA (June 2026)
