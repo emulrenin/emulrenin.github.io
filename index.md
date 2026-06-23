@@ -12,7 +12,7 @@ Before coming to Emory, I completed B.A.'s in mathematics and philosophy at the 
   - R. Miyazaki, E. Mulrenin, C. Pohoata, and M. Zheng, *Improved Ramsey bounds for generalized Schur equations*, preprint. [[arXiv]](https://arxiv.org/abs/2605.15147)
   - D. Conlon, E. Mulrenin, and C. Pohoata, *Two counterexamples to a conjecture about even cycles*, preprint.
 [[arXiv]](https://arxiv.org/abs/2603.24515)
-  - E. Mulrenin, *Some remarks on Folkman graphs for triangles*, preprint. [[arXiv]](https://arxiv.org/abs/2506.14942)
+  - E. Mulrenin and S. Van Overberghe, *Some remarks on Folkman graphs for triangles*, preprint. [[arXiv]](https://arxiv.org/abs/2506.14942)
   - D. Dobak and E. Mulrenin, *Sharp exponents for bipartite Erdos-Rado numbers*, J. Graph Theory **112** (2026), 96--102. [[arXiv]](https://arxiv.org/abs/2410.08982)
   - E. Mulrenin, C. Pohoata, and D. Zakharov, *Color avoidance for monotone paths*, Discrete Anal. (2025), Paper No. 23, 14 pp. [[arXiv]](https://arxiv.org/abs/2411.19823)
   - E. Mulrenin and B. Nagle, *Some imbalanced hypergraph Zarankiewicz numbers*, Bull. Inst. Comb. Appl. **102** (2024), 116--128. [[journal]](https://bica.the-ica.org/Volumes/102//Reprints/BICA2023-56-Reprint.pdf)
