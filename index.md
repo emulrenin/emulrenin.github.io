@@ -1,5 +1,5 @@
 ## Hello! 
-I am a third year PhD student in mathematics at Emory University supervised by Professor [Cosmin Pohoata](https://pohoatza.wordpress.com/).
+I am a fourth year PhD student in mathematics at Emory University supervised by Professor [Cosmin Pohoata](https://pohoatza.wordpress.com/).
 
 My main research interests are in combinatorics, primarily Ramsey theory, extremal graph theory, and finite geometry.
 
@@ -19,22 +19,20 @@ Before coming to Emory, I completed B.A.'s in mathematics and philosophy at the 
 
 ### Teaching
 In Fall 2026, I'm teaching Math 112 (Calculus II). For previous courses I've taught or TA'd/graded for, see my CV.
-
-### Planned upcoming travel
-  - ISM summer school on probability and combinatorics, Montreal, Canada (June 2026)
-  - SIAM DM, San Diego, California, USA (June 2026)
     
 ### Talks
+  - SIAM DM (June 2026); San Diego, CA, USA
   - Atlanta lecture series XXX (November 2025); Atlanta, GA, USA
   - UGA analysis seminar (November 2025); Athens, GA, USA
   - UPC combinatorics seminar (November 2024); Barcelona, Spain
     
 ### Some Conferences & Activities
-  - BIRS workshop on finite geometry and Ramsey theory, Banff, Canada (September 2025)
-  - PCMI graduate summer school, Park City, Utah, USA (July 2025)
-  - SLMath workshop on algebraic and analytic methods, Berkeley, California, USA (March 2025)
-  - Summer school on additive combinatorics at the Renyi Institute in Budapest, Hungary (June 2024)
-  - Summer school on graph coloring, EXCILL IV conference, and summer school on algebraic methods at UIUC in Champaign, Illinois, USA (May-June 2023)
+  - ISM summer school on probability and combinatorics; Montreal, Canada (June 2026)
+  - BIRS workshop on finite geometry and Ramsey theory; Banff, Canada (September 2025)
+  - PCMI graduate summer school; Park City, UT, USA (July 2025)
+  - SLMath workshop on algebraic and analytic methods; Berkeley, CA, USA (March 2025)
+  - Summer school on additive combinatorics; Renyi Institute, Budapest, Hungary (June 2024)
+  - Summer school on graph coloring, EXCILL IV conference, and summer school on algebraic methods; UIUC, Champaign, IL, USA (May-June 2023)
   
 
   
