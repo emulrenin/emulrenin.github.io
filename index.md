@@ -5,7 +5,7 @@ My main research interests are in combinatorics, primarily Ramsey theory, extrem
 
 See my CV [here](https:///emulrenin.github.io/EM_CV.pdf).
 
-Before coming to Emory, I completed B.A.'s in mathematics and philosophy at the University of South Florida in 2023.
+Before coming to Emory, I completed B.A.'s in mathematics and philosophy at the University of South Florida in 2023. My undergraduate advisor was Professor [Brendan Nagle](https://www.usf.edu/arts-sciences/departments/mathematics-statistics/people/faculty/brendan-nagle.aspx).
 
 ### Publications and preprints
   - D. Dobak and E. Mulrenin, *Recursive upper bounds for the vertex online Ramsey game with applications to hypergraph Ramsey numbers*, preprint. [[arXiv]](https://arxiv.org/abs/2605.16607)
@@ -21,6 +21,7 @@ Before coming to Emory, I completed B.A.'s in mathematics and philosophy at the 
 In Fall 2026, I'm teaching Math 112 (Calculus II). For previous courses I've taught or TA'd/graded for, see my CV.
     
 ### Talks
+  - Georgia State combinatorics seminar (October 2026); Atlanta, GA, USA
   - SIAM DM (June 2026); San Diego, CA, USA
   - Atlanta lecture series XXX (November 2025); Atlanta, GA, USA
   - UGA analysis seminar (November 2025); Athens, GA, USA
